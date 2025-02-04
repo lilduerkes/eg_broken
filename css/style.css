@@ -11,9 +11,9 @@ img {
 	height: auto;
 }
 body {
-  color: #444;
+  color: #3f0808;
   font-size: 1.6rem;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Gentium Book Plus', serif;
 }
 p {
   margin-bottom: .67em;
@@ -24,7 +24,7 @@ nav, footer {
 footer {
   text-align: center;
   padding: 1em 0 .3em 0;
-  color: #D0D0D0;
+  color: #e14545; 
 }
 /*-- Main Menu Styles--*/
 nav ul {
@@ -40,7 +40,7 @@ nav a:hover, nav a:active  {
   text-decoration: underline;
 }
 nav a.active {
-  color: #F0F0F0;
+  color: #dc7e8f;
 }
 /*-- Hero Unit Styles--*/
 header {
